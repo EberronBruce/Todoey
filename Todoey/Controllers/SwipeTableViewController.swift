@@ -60,7 +60,7 @@ class SwipeTableViewController: UITableViewController, SwipeTableViewCellDelegat
         //Update model here
         
         
-        print("Itme deleted from superclass")
+        //print("Itme deleted from superclass")
     }
     
     
